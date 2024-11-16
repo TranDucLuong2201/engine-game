@@ -173,6 +173,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
+    <ProjectReference Include="D:\AndroidProject\game\demo\cmake\debug\lib\engine\code\platform\core\engine_platform.vcxproj">
+      <Project>{2C4D6072-0168-3F76-9B89-CA39C169914D}</Project>
+      <Name>engine_platform</Name>
+    </ProjectReference>
     <ProjectReference Include="D:\AndroidProject\game\demo\cmake\debug\lib\glfw\src\glfw.vcxproj">
       <Project>{014588A0-55D4-3863-A868-33A7B707A7D4}</Project>
       <Name>glfw</Name>

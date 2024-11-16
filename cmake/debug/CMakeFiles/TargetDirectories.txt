@@ -11,3 +11,10 @@ D:/AndroidProject/game/demo/cmake/debug/lib/glfw/src/CMakeFiles/glfw.dir
 D:/AndroidProject/game/demo/cmake/debug/lib/glfw/src/CMakeFiles/update_mappings.dir
 D:/AndroidProject/game/demo/cmake/debug/lib/glfw/src/CMakeFiles/INSTALL.dir
 D:/AndroidProject/game/demo/cmake/debug/lib/glfw/docs/CMakeFiles/INSTALL.dir
+D:/AndroidProject/game/demo/cmake/debug/lib/engine/CMakeFiles/INSTALL.dir
+D:/AndroidProject/game/demo/cmake/debug/lib/engine/code/CMakeFiles/INSTALL.dir
+D:/AndroidProject/game/demo/cmake/debug/lib/engine/code/platform/CMakeFiles/INSTALL.dir
+D:/AndroidProject/game/demo/cmake/debug/lib/engine/code/platform/CMakeFiles/ALL_BUILD.dir
+D:/AndroidProject/game/demo/cmake/debug/lib/engine/code/platform/core/CMakeFiles/engine_platform.dir
+D:/AndroidProject/game/demo/cmake/debug/lib/engine/code/platform/core/CMakeFiles/INSTALL.dir
+D:/AndroidProject/game/demo/cmake/debug/lib/engine/code/platform/win32/CMakeFiles/INSTALL.dir

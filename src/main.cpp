@@ -1,4 +1,5 @@
-#include <GLFW/glfw3.h>
+// #include <GLFW/glfw3.h>
+#include <win32/window.hpp>
 
 int main() {
     // if(glfwInit() == GLFW_FALSE) return -1;

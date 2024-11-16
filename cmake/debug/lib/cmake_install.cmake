@@ -37,3 +37,8 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("D:/AndroidProject/game/demo/cmake/debug/lib/glfw/cmake_install.cmake")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/AndroidProject/game/demo/cmake/debug/lib/engine/cmake_install.cmake")
+endif()
+

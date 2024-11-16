@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\androidproject\\game\\demo\\lib\\engine\\code\\platform\\win32\\window.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\androidproject\\game\\demo\\lib\\engine\\code\\platform\\win32\\window.hpp",
+            "d:\\androidproject\\game\\demo\\lib\\engine\\code\\platform\\core\\window.hpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
