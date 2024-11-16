@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "project_window.dir\\Debug\\main.obj",
+            "outputs": [
+                "D:\\AndroidProject\\game\\demo\\cmake\\debug\\src\\project_window.dir\\Debug\\vc143.pdb",
+                "project_window.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

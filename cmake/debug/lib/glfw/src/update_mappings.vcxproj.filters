@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\AndroidProject\game\demo\cmake\debug\CMakeFiles\de257f2e5960d14d37540bd37efd0345\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\AndroidProject\game\demo\lib\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\AndroidProject\game\demo\lib\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="D:\AndroidProject\game\demo\lib\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="D:\AndroidProject\game\demo\cmake\debug\lib\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{39080F2B-7638-3208-8A97-31E9516C2A09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4F315FF6-EB62-3D12-B58B-0FF4A7B075C2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

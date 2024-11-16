@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Users/Duclu/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.29/Modules/FindDoxygen.cmake
+C:/Users/Duclu/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/Duclu/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.29/Modules/FindPackageMessage.cmake
+D:/AndroidProject/game/demo/lib/glfw/docs/CMakeLists.txt

@@ -1,0 +1,13 @@
+D:/AndroidProject/game/demo/cmake/debug/CMakeFiles/INSTALL.dir
+D:/AndroidProject/game/demo/cmake/debug/CMakeFiles/ALL_BUILD.dir
+D:/AndroidProject/game/demo/cmake/debug/CMakeFiles/ZERO_CHECK.dir
+D:/AndroidProject/game/demo/cmake/debug/src/CMakeFiles/project_window.dir
+D:/AndroidProject/game/demo/cmake/debug/src/CMakeFiles/INSTALL.dir
+D:/AndroidProject/game/demo/cmake/debug/lib/CMakeFiles/INSTALL.dir
+D:/AndroidProject/game/demo/cmake/debug/lib/glfw/CMakeFiles/uninstall.dir
+D:/AndroidProject/game/demo/cmake/debug/lib/glfw/CMakeFiles/INSTALL.dir
+D:/AndroidProject/game/demo/cmake/debug/lib/glfw/CMakeFiles/ALL_BUILD.dir
+D:/AndroidProject/game/demo/cmake/debug/lib/glfw/src/CMakeFiles/glfw.dir
+D:/AndroidProject/game/demo/cmake/debug/lib/glfw/src/CMakeFiles/update_mappings.dir
+D:/AndroidProject/game/demo/cmake/debug/lib/glfw/src/CMakeFiles/INSTALL.dir
+D:/AndroidProject/game/demo/cmake/debug/lib/glfw/docs/CMakeFiles/INSTALL.dir

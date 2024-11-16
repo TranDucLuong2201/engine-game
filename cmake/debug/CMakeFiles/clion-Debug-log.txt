@@ -1,0 +1,8 @@
+C:\Users\Duclu\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -G "Visual Studio 17 2022" -S D:\AndroidProject\game\demo -B D:\AndroidProject\game\demo\cmake\debug
+-- Selecting Windows SDK version 10.0.22621.0 to target Windows 10.0.26100.
+-- Including Win32 support
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Documentation generation requires Doxygen 1.9.8 or later
+-- Configuring done (0.1s)
+-- Generating done (0.3s)
+-- Build files have been written to: D:/AndroidProject/game/demo/cmake/debug
